@@ -1,3 +1,9 @@
+/*Simple Python script 
+ *Jamal Mahmoud
+ */
+
+
+
 three = 0
 five = 0
 sum = 0
