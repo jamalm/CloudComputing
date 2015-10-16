@@ -1,8 +1,4 @@
-/*Simple Python script 
- *Jamal Mahmoud
- */
-
-
+//Simple Python Script
 
 three = 0
 five = 0
